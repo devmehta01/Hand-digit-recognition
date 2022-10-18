@@ -1,4 +1,4 @@
-# Hand-digit-recognition
+# Handwritten-digit-recognition
 
 I had created a neural network from scratch earlier (https://github.com/devmehta01/Neural-Network-from-scratch). I will be using this same code to perform hand digit recognition by creating different models with different number of hidden layers and neurons.
 
